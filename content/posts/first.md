@@ -8,7 +8,7 @@ cover:
   caption: 'Cover image'
 ---
 
-# First Post
+## First Post
 
 ## Heading 1
 
