@@ -6,6 +6,8 @@ cover:
   image: img/main-cover.png
   alt: 'my cover image'
   caption: 'Cover image'
+tags: ["html", "css"]
+categories: "tech"
 ---
 
 ## First Post
