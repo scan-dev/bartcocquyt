@@ -5,15 +5,15 @@ theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: 'Welcome'
-    Content: 'welcome to my Site. here you find interesting information on a variaty of tech topics.'
+    Title: "Welcome"
+    Content: Welcome to my Site. here you find interesting information on a variaty of tech topics.'
   socialIcons:
     - name: facebook
-      url: 'https://facebook.com'
+      url: "https://facebook.com"
     - name: linkedin
-      url: 'https://linkedin.com'
+      url: "https://linkedin.com"
     - name: github
-      url: 'https://github.com'
+      url: "https://github.com"
 
   cover:
     linkFullImages: true
