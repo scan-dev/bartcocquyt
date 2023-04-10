@@ -6,7 +6,8 @@ theme: PaperMod
 params:
   cover:
     linkFullImages: true
-
+  ShowReadingTime: true
+  
 menu: 
   main:
     - identifier: categories
