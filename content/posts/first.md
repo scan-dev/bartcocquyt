@@ -10,6 +10,8 @@ cover:
 
 ## First Post
 
+Sample post for testing purposes
+
 ## Heading 1
 
 paragrpah text.
