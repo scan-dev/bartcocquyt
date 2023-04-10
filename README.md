@@ -10,6 +10,8 @@ Bart Cocquyt
 
 ## Hugo Server
 
-- Test server
+- Generate Site
+
 > hugo server
--access 
+
+- Access Site - [Link](http://hugo.vmlab.be:1313)
