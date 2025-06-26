@@ -11,9 +11,9 @@ params:
     - name: facebook
       url: "https://facebook.com"
     - name: linkedin
-      url: "https://linkedin.com"
+      url: "https://linkedin.com/in/bart-cocquyt"
     - name: github
-      url: "https://github.com"
+      url: "https://github.com/scan-dev"
 
   cover:
     linkFullImages: true
@@ -23,6 +23,8 @@ params:
 
 menu: 
   main:
+    - identifier: about
+      name About
     - identifier: categories
       name: Categories
       url: /categories
