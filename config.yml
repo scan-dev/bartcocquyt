@@ -1,15 +1,73 @@
-baseURL: ""
 languageCode: en-us
+baseURL: "https://bartcocquyt.com/"
 title: Bart Cocquyt
 theme: PaperMod
 
+enablerobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
 params:
+  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: BartCocquyt
+  description: "A born **IT Professional and Tech Enthusiast** always eager to get my hands dirty on all new developments in the **IT and Technology World**"
+  keywords: [Blog, Portfolio, Tech Professional]
+  author: Bart Cocquyt
+  # author: ["Me", "You"] # multiple authors 
+  defaultTheme: dark
+   
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  label:
+    text: "Bart Cocquyt"
+    icon: "img/coding.png"
+    iconHeight: 35
+
+  # Profile Mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Welcome! \U0001F44B"
+    subtitle: "A born **IT Professional and Tech Enthusiast** always eager to get my hands dirty on all new developments in the **IT and Technology World**"
+    imageUrl: "img/bartcocquyt.png" # optional
+    imageTitle: "IT Professional"
+    imageWidth: 480 # custom size
+    imageHeight: 480 # custom size
+    buttons:
+      - name: About Me
+        url: "/about/bartcocquyt"
+      - name: Posts
+        url: /posts
+      - name: Projects
+        url: /projects
+    
+    socialIcons:
+    - name: facebook
+      url: "https://facebook.com/Bart-Cocquyt"
+    - name: linkedin
+      url: "https://linkedin.com/in/bart-cocquyt"
+    - name: github
+      url: "https://github.com/scan-dev"
+    
+  # home-info mode
   homeInfoParams:
-    Title: "Welcome"
-    Content: Welcome to my Site. here you find interesting information on a variaty of tech topics.'
+    Title: "Welcome! \U0001F44B"
+    Content: A born **IT Professional and Tech Enthusiast** always eager to get my hands dirty on all new developments in the **IT and Technology World**"
+      
   socialIcons:
     - name: facebook
-      url: "https://facebook.com"
+      url: "https://facebook.com/Bart-Cocquyt"
     - name: linkedin
       url: "https://linkedin.com/in/bart-cocquyt"
     - name: github
@@ -17,25 +75,27 @@ params:
 
   cover:
     linkFullImages: true
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
-menu: 
+menu:
   main:
     - identifier: about
-      name: More About Me
+      name: About
       url: /about
-      weight: 10
-    - identifier: categories
-      name: Categories
-      url: /categories
-      weight: 20
-    - identifier: tags
-      name: Tags
-      url: /tags
-      weight: 30
-    - identifier: archives
-      name: Archives
-      url: /archives
       weight: 40
+    - identifier: blog
+      name: Blogs
+      url: /blog
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects
+      weight: 20
+    
+    #- identifier: tags
+    #  name: tags
+    #  url: /tags/
+    #  weight: 4
+ 

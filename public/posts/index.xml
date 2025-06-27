@@ -2,10 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Bart Cocquyt</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Bart Cocquyt</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2023 14:56:39 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Mon, 10 Apr 2023 14:56:39 +0200</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;h2 id=&#34;first-post&#34;&gt;First Post&lt;/h2&gt;
+&lt;p&gt;Sample post for testing purposes.&lt;/p&gt;
+&lt;h2 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h2&gt;
+&lt;p&gt;paragrpah text.&lt;/p&gt;
+&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
+&lt;h2 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h2&gt;</description>
+    </item>
   </channel>
 </rss>
