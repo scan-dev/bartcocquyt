@@ -10,4 +10,4 @@ tags: ["html", "css"]
 categories: "about"
 ---
 
-an IT professional and Tech enthousiat always eager to get my hands dirty on all new developments in the IT and technology world.
+A born IT professional and Tech enthusiast always eager to get my hands dirty on all new developments in the IT and technology world.
