@@ -24,7 +24,7 @@ params:
 menu: 
   main:
     - identifier: about
-      name: About
+      name: More About Me
       url: /about
       weight: 10
     - identifier: categories
