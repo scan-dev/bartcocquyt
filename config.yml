@@ -32,7 +32,7 @@ params:
 
   label:
     text: "Bart Cocquyt"
-    icon: "img/coding.png"
+    icon: "img/icons/coding.png"
     iconHeight: 35
 
   # Profile Mode
