@@ -17,7 +17,19 @@
     <loc>http://localhost:1313/about/bartcocquyt/</loc>
     <lastmod>2025-06-27T01:00:00+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/about/career/</loc>
+    <lastmod>2025-06-27T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/career/</loc>
+    <lastmod>2025-06-27T01:00:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-27T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/skills/</loc>
+    <lastmod>2025-06-27T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/skills/</loc>
     <lastmod>2025-06-27T01:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>

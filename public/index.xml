@@ -4,7 +4,7 @@
     <title>Bart Cocquyt</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Bart Cocquyt</description>
-    <generator>Hugo -- 0.147.8</generator>
+    <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Jun 2025 01:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,61 @@
       <link>http://localhost:1313/about/bartcocquyt/</link>
       <pubDate>Fri, 27 Jun 2025 01:00:00 +0200</pubDate>
       <guid>http://localhost:1313/about/bartcocquyt/</guid>
-      <description>&lt;p&gt;A born IT professional and Tech enthusiast always eager to get my hands dirty on all new developments in the IT and technology world.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A born IT professional and Tech enthusiast always eager to get my hands dirty on all new developments in the ICT and Tech world.&lt;/p&gt;
+&lt;p&gt;Always looking for new challenges and lookign for providing added-values in my job and personal life.&lt;/p&gt;
+&lt;p&gt;Advocate building team-members to shine and evolve and to become a high-perfomance team.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;a-strong-believer-of-opportunities&#34;&gt;A STRONG BELIEVER of OPPORTUNITIES &lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;and&#34;&gt;AND&lt;/h4&gt;
+&lt;h3 id=&#34;continuous-learning&#34;&gt;CONTINUOUS LEARNING&lt;/h3&gt;
+&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Career</title>
+      <link>http://localhost:1313/about/career/</link>
+      <pubDate>Fri, 27 Jun 2025 01:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/about/career/</guid>
+      <description>&lt;h2 id=&#34;zf-cloud-platform-devops-engineer-2021-2025&#34;&gt;ZF CLOUD PLATFORM DEVOPS ENGINEER 2021-2025&lt;/h2&gt;
+&lt;p&gt;Supporting developer community within ZF by providing
+easy2use tooling for automated development, testing &amp;amp;
+deployment of microservices for the new ZF Global SCALAR
+cloud platform through an Backstage IDP platform “Infinity”
+running all on AWS &amp;amp; K8S&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skidtata-soluton-architect-2020-2021&#34;&gt;SKIDTATA SOLUTON ARCHITECT 2020-2021&lt;/h2&gt;
+&lt;p&gt;Advising and creating designs on developing solutions
+of the in-house parking software solutions and the web platforms
+with the development teams of SKIDATA AG.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/about/skills/</link>
+      <pubDate>Fri, 27 Jun 2025 01:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/about/skills/</guid>
+      <description>&lt;h1 id=&#34;cloud-platforms&#34;&gt;CLOUD Platforms&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;AWS&lt;/li&gt;
+&lt;li&gt;Azure&lt;/li&gt;
+&lt;li&gt;GCP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;tooling&#34;&gt;TOOLING&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Docker - Podman&lt;/li&gt;
+&lt;li&gt;Git - Gitlab - Github&lt;/li&gt;
+&lt;li&gt;K8S - Rancher - K3S&lt;/li&gt;
+&lt;li&gt;Argo-CD&lt;/li&gt;
+&lt;li&gt;Flux&lt;/li&gt;
+&lt;li&gt;Helm&lt;/li&gt;
+&lt;li&gt;Terraform - Terragrunt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;programming&#34;&gt;PROGRAMMING&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Bash scripting&lt;/li&gt;
+&lt;li&gt;Powershell&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;VScripting&lt;/li&gt;
+&lt;li&gt;Cobol&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>First</title>
@@ -26,6 +80,13 @@
 &lt;p&gt;paragrpah text.&lt;/p&gt;
 &lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
 &lt;h2 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/first/</link>
+      <pubDate>Mon, 10 Apr 2023 14:56:39 +0200</pubDate>
+      <guid>http://localhost:1313/projects/first/</guid>
+      <description></description>
     </item>
     <item>
       <title></title>
