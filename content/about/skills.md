@@ -45,7 +45,6 @@ categories: ["about","tech","skills"]
 - Windows Server OS 2003 - 2016
 - Microsoft SQL Server
 - Linux Server OS (Ubuntu/CentOS/REdhat/Debian/Arch)
-- BPMN with Camunda
 - HP Server Hardware
 - IBM Storwize/Unified
 - Cisco Routing & Network equipment
@@ -64,7 +63,7 @@ Checkpoint - F5)
 - HP
 - Netapp
 - IBM
-- Level-3 - Global-Switch (#1 international Datacom provider)
+- Level(3) - Global-Switch (#1 international Datacom provider)
 - Juniper
 - Checkpoint
 - BigIP/F5
