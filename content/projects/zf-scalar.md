@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: 'Projects'
 date: 2025-06-27T14:56:39+02:00
 draft: false
 cover:
@@ -11,7 +11,7 @@ categories: "tech"
 ---
 ## ZF SCALAR - Fleet Orchestration Platform
 
-## DEVELOPER EXPERIENCE IMPROVEMENTS
+### DEVELOPER EXPERIENCE IMPROVEMENTS
 
 - Make CI/CD Gitlab tooling more robust and provide product version upgrade without any downtime or impact on developer community.
 - Streamline access with Gitlab as the SSO provider for aditional tooling (sonarqube/unleash)

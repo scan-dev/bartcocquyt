@@ -1,9 +1,10 @@
 languageCode: en-us
 baseURL: "https://bartcocquyt.com/"
 title: Bart Cocquyt
-theme: PaperMod
+theme: "PaperMod"
 
 enablerobotsTXT: true
+
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -18,10 +19,9 @@ params:
   defaultTheme: dark
    
   ShowShareButtons: true
-  ShareButtons: ["linkedin", "facebook","whatsapp"] # To customize which share buttons to be enabled on page
+  ShareButtons: ["linkedin","facebook"] # To customize which share buttons to be enabled on page
 
   ShowReadingTime: true
-  
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -39,10 +39,18 @@ params:
     iconHeight: 35
 
   # Home-info mode
-  homeInfoParams:
-    Title: "Welcome! \U0001F44B"
-    Content: A born **IT Professional and Tech Enthusiast** always eager to get my hands dirty on all new developments in the **IT and Technology World**"
+  #homeInfoParams:
+  #  Title: "Welcome! \U0001F44B"
+  #  Content: A born **IT Professional and Tech Enthusiast** always eager to get my hands dirty on all new developments in the **IT and Technology World**"
       
+  #  social-icons:
+  #    - name: "facebook"
+  #      url: "https://facebook.com/Bart-Cocquyt"
+  #    - name: "linkedin"
+  #      url: "https://linkedin.com/in/bart-cocquyt"
+  #    - name: "github"
+  #      url: "https://github.com/scan-dev"    
+
   # Profile Mode
   profileMode:
     enabled: true # needs to be explicitly set
@@ -59,28 +67,14 @@ params:
         url: /posts
       - name: Projects
         url: /projects
-    
     socialIcons:
-      - name: facebook
+      - name: "facebook"
         url: "https://facebook.com/Bart-Cocquyt"
-      - name: linkedin
+      - name: "linkedin"
         url: "https://linkedin.com/in/bart-cocquyt"
-      - name: github
+      - name: "github"
         url: "https://github.com/scan-dev"
-    
-  # home-info mode
-  homeInfoParams:
-    Title: "Welcome! \U0001F44B"
-    Content: A born **IT Professional and Tech Enthusiast** always eager to get my hands dirty on all new developments in the **IT and Technology World**"
-      
-    socialIcons:
-      - name: facebook
-        url: "https://facebook.com/Bart-Cocquyt"
-      - name: linkedin
-        url: "https://linkedin.com/in/bart-cocquyt"
-      - name: github
-        url: "https://github.com/scan-dev"
-
+  
   cover:
     linkFullImages: true
     hidden: true # hide everywhere but not in structured data

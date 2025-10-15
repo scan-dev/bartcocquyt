@@ -1,20 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Projects on Bart Cocquyt</title>
-    <link>http://localhost:1313/projects/</link>
-    <description>Recent content in Projects on Bart Cocquyt</description>
-    <generator>Hugo -- 0.151.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jun 2025 14:56:39 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/zf-scalar/</link>
-      <pubDate>Fri, 27 Jun 2025 14:56:39 +0200</pubDate>
-      <guid>http://localhost:1313/projects/zf-scalar/</guid>
-      <description>&lt;h2 id=&#34;zf-scalar---fleet-orchestration-platform&#34;&gt;ZF SCALAR - Fleet Orchestration Platform&lt;/h2&gt;
-&lt;h2 id=&#34;developer-experience-improvements&#34;&gt;DEVELOPER EXPERIENCE IMPROVEMENTS&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projects on Bart Cocquyt</title><link>http://localhost:1313/projects/</link><description>Recent content in Projects on Bart Cocquyt</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 14:56:39 +0200</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects</title><link>http://localhost:1313/projects/zf-scalar/</link><pubDate>Fri, 27 Jun 2025 14:56:39 +0200</pubDate><guid>http://localhost:1313/projects/zf-scalar/</guid><description>&lt;h2 id="zf-scalar---fleet-orchestration-platform"&gt;ZF SCALAR - Fleet Orchestration Platform&lt;/h2&gt;
+&lt;h3 id="developer-experience-improvements"&gt;DEVELOPER EXPERIENCE IMPROVEMENTS&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Make CI/CD Gitlab tooling more robust and provide product version upgrade without any downtime or impact on developer community.&lt;/li&gt;
 &lt;li&gt;Streamline access with Gitlab as the SSO provider for aditional tooling (sonarqube/unleash)&lt;/li&gt;
@@ -25,7 +10,4 @@
 &lt;li&gt;Automated vulnerability fix with renovate in pipeline process&lt;/li&gt;
 &lt;li&gt;Provide Software stack templates in Backstage IDP&lt;/li&gt;
 &lt;li&gt;Improve CI/CD pipeline template performance for the different software stacks to reduce time to&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;/ul&gt;</description></item></channel></rss>
