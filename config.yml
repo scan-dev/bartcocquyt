@@ -34,23 +34,32 @@ params:
   tocopen: false
   social: true
 
+  socialIcons:
+      - name: "facebook"
+        url: "https://facebook.com/Bart-Cocquyt"
+      - name: "linkedin"
+        url: "https://linkedin.com/in/bart-cocquyt"
+      - name: "github"
+        url: "https://github.com/scan-dev"
+  
+
   label:
     text: "Bart Cocquyt"
     icon: "img/coding.png"
     iconHeight: 35
 
   # Home-info mode
-  #homeInfoParams:
-  #  Title: "Welcome! \U0001F44B"
-  #  Content: A born **IT Professional and Tech Enthusiast** always eager to get my hands dirty on all new developments in the **IT and Technology World**"
+  homeInfoParams:
+    Title: "Welcome! \U0001F44B"
+    Content: A born **IT Professional and Tech Enthusiast** always eager to get my hands dirty on all new developments in the **IT and Technology World**"
       
-  #  social-icons:
-  #    - name: "facebook"
-  #      url: "https://facebook.com/Bart-Cocquyt"
-  #    - name: "linkedin"
-  #      url: "https://linkedin.com/in/bart-cocquyt"
-  #    - name: "github"
-  #      url: "https://github.com/scan-dev"    
+    socialIcons:
+      - name: "facebook"
+        url: "https://facebook.com/Bart-Cocquyt"
+      - name: "linkedin"
+        url: "https://linkedin.com/in/bart-cocquyt"
+      - name: "github"
+        url: "https://github.com/scan-dev"    
 
   # Profile Mode
   profileMode:
@@ -74,8 +83,8 @@ params:
       - name: "linkedin"
         url: "https://linkedin.com/in/bart-cocquyt"
       - name: "github"
-        url: "https://github.com/scan-dev"
-  
+        url: "https://github.com/scan-dev"    
+   
   cover:
     linkFullImages: true
     hidden: true # hide everywhere but not in structured data
