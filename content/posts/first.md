@@ -16,9 +16,4 @@ Sample post for testing purposes.
 
 ## Heading 1
 
-paragrpah text.
-
-## Heading 2
-
-## Heading 3
 
