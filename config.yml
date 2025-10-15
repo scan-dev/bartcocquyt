@@ -32,6 +32,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  social: true
 
   label:
     text: "Bart Cocquyt"
