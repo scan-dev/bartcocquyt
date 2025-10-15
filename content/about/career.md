@@ -20,7 +20,7 @@ running all on AWS & K8S
 
 ---
 
-## SKIDTATA SOLUTON ARCHITECT 2020-2021
+## SKIDATA SOLUTION ARCHITECT 2020-2021
 
 Advising and creating designs on developing solutions
 of the in-house parking software solutions and the web platforms
@@ -39,7 +39,7 @@ SD WAN in all PwC Belgium offices.
 ---
 
 ## ICT INFRASTRUCTURE DEVELOPMENT FOR
-## FORT WORTH FAMILY DISTRICT COURT 2018
+### FORT WORTH FAMILY DISTRICT COURT 2018
 
 Advise on development in court solutions on infrastructure for
 lawyers and judges to share information and the securities constraints that are
