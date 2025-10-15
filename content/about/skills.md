@@ -20,12 +20,13 @@ categories: ["about","tech","skills"]
 
 - Docker - Podman
 - Git - Gitlab - Github
-- K8S - Karpenter -K3S
+- K8S - Karpenter - K3S
 - Argo-CD - Flux - Helm
 - Terraform - Terragrunt
 - Portainer - Rancher
 - Datadog - Grafana - Prometheus
 - Checkhov - Kaniko - SonarQube
+- Renovate
 
 # PROGRAMMING
 
@@ -46,17 +47,21 @@ categories: ["about","tech","skills"]
 - Microsoft SQL Server
 - Linux Server OS (Ubuntu/CentOS/REdhat/Debian/Arch)
 - HP Server Hardware
+- SUN Server Hardware
 - IBM Storwize/Unified
 - Cisco Routing & Network equipment
-- NetApp Filers storage
+- NetApp FAS storage
 - Microsoft Technologies
 - 3Com Switches
-- Data Center (Nexus - Juniper SRX - Juniper SSL -
-Checkpoint - F5)
+- Data Center Security
+  * Nexus 
+  * Juniper SRX 
+  * Juniper SSL 
+  * Checkpoint - F5
 
 ---
 
-## Contact /w Infrastructure Companies
+## Contact/w Infrastructure Companies
 
 - Cisco
 - Vmware
