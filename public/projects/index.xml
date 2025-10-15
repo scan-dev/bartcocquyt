@@ -4,16 +4,28 @@
     <title>Projects on Bart Cocquyt</title>
     <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Bart Cocquyt</description>
-    <generator>Hugo -- 0.149.0</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2023 14:56:39 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 14:56:39 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/first/</link>
-      <pubDate>Mon, 10 Apr 2023 14:56:39 +0200</pubDate>
-      <guid>http://localhost:1313/projects/first/</guid>
-      <description></description>
+      <link>http://localhost:1313/projects/zf-scalar/</link>
+      <pubDate>Fri, 27 Jun 2025 14:56:39 +0200</pubDate>
+      <guid>http://localhost:1313/projects/zf-scalar/</guid>
+      <description>&lt;h2 id=&#34;zf-scalar---fleet-orchestration-platform&#34;&gt;ZF SCALAR - Fleet Orchestration Platform&lt;/h2&gt;
+&lt;h2 id=&#34;developer-experience-improvements&#34;&gt;DEVELOPER EXPERIENCE IMPROVEMENTS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Make CI/CD Gitlab tooling more robust and provide product version upgrade without any downtime or impact on developer community.&lt;/li&gt;
+&lt;li&gt;Streamline access with Gitlab as the SSO provider for aditional tooling (sonarqube/unleash)&lt;/li&gt;
+&lt;li&gt;Automate Gitlab managment for user creation/access and project creation/access.&lt;/li&gt;
+&lt;li&gt;Improve Validation process by making feedback loop quicker in pipeline process.&lt;/li&gt;
+&lt;li&gt;Automate Validation Cleanup of orphaned resources for cost reductions.&lt;/li&gt;
+&lt;li&gt;Implement feature flag functionality for development community with Unleash&lt;/li&gt;
+&lt;li&gt;Automated vulnerability fix with renovate in pipeline process&lt;/li&gt;
+&lt;li&gt;Provide Software stack templates in Backstage IDP&lt;/li&gt;
+&lt;li&gt;Improve CI/CD pipeline template performance for the different software stacks to reduce time to&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

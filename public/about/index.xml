@@ -4,7 +4,7 @@
     <title>Abouts on Bart Cocquyt</title>
     <link>http://localhost:1313/about/</link>
     <description>Recent content in Abouts on Bart Cocquyt</description>
-    <generator>Hugo -- 0.149.0</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Jun 2025 01:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +14,7 @@
       <pubDate>Fri, 27 Jun 2025 01:00:00 +0200</pubDate>
       <guid>http://localhost:1313/about/bartcocquyt/</guid>
       <description>&lt;p&gt;A born IT professional and Tech enthusiast always eager to get my hands dirty on all new developments in the ICT and Tech world.&lt;/p&gt;
-&lt;p&gt;Always looking for new challenges and lookign for providing added-values in my job and personal life.&lt;/p&gt;
+&lt;p&gt;Always looking for new challenges and looking for providing added-values in my job and personal life.&lt;/p&gt;
 &lt;p&gt;Advocate building team-members to shine and evolve and to become a high-perfomance team.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;a-strong-believer-of-opportunities&#34;&gt;A STRONG BELIEVER of OPPORTUNITIES &lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
@@ -34,7 +34,7 @@ deployment of microservices for the new ZF Global SCALAR
 cloud platform through an Backstage IDP platform “Infinity”
 running all on AWS &amp;amp; K8S&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;skidtata-soluton-architect-2020-2021&#34;&gt;SKIDTATA SOLUTON ARCHITECT 2020-2021&lt;/h2&gt;
+&lt;h2 id=&#34;skidata-solution-architect-2020-2021&#34;&gt;SKIDATA SOLUTION ARCHITECT 2020-2021&lt;/h2&gt;
 &lt;p&gt;Advising and creating designs on developing solutions
 of the in-house parking software solutions and the web platforms
 with the development teams of SKIDATA AG.&lt;/p&gt;</description>
@@ -55,12 +55,13 @@ with the development teams of SKIDATA AG.&lt;/p&gt;</description>
 &lt;ul&gt;
 &lt;li&gt;Docker - Podman&lt;/li&gt;
 &lt;li&gt;Git - Gitlab - Github&lt;/li&gt;
-&lt;li&gt;K8S - Karpenter -K3S&lt;/li&gt;
+&lt;li&gt;K8S - Karpenter - K3S&lt;/li&gt;
 &lt;li&gt;Argo-CD - Flux - Helm&lt;/li&gt;
 &lt;li&gt;Terraform - Terragrunt&lt;/li&gt;
 &lt;li&gt;Portainer - Rancher&lt;/li&gt;
 &lt;li&gt;Datadog - Grafana - Prometheus&lt;/li&gt;
 &lt;li&gt;Checkhov - Kaniko - SonarQube&lt;/li&gt;
+&lt;li&gt;Renovate&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;programming&#34;&gt;PROGRAMMING&lt;/h1&gt;
 &lt;ul&gt;
@@ -79,25 +80,31 @@ with the development teams of SKIDATA AG.&lt;/p&gt;</description>
 &lt;li&gt;Windows Server OS 2003 - 2016&lt;/li&gt;
 &lt;li&gt;Microsoft SQL Server&lt;/li&gt;
 &lt;li&gt;Linux Server OS (Ubuntu/CentOS/REdhat/Debian/Arch)&lt;/li&gt;
-&lt;li&gt;BPMN with Camunda&lt;/li&gt;
 &lt;li&gt;HP Server Hardware&lt;/li&gt;
+&lt;li&gt;SUN Server Hardware&lt;/li&gt;
 &lt;li&gt;IBM Storwize/Unified&lt;/li&gt;
 &lt;li&gt;Cisco Routing &amp;amp; Network equipment&lt;/li&gt;
-&lt;li&gt;NetApp Filers storage&lt;/li&gt;
+&lt;li&gt;NetApp FAS storage&lt;/li&gt;
 &lt;li&gt;Microsoft Technologies&lt;/li&gt;
 &lt;li&gt;3Com Switches&lt;/li&gt;
-&lt;li&gt;Data Center (Nexus - Juniper SRX - Juniper SSL -
-Checkpoint - F5)&lt;/li&gt;
+&lt;li&gt;Data Center Security
+&lt;ul&gt;
+&lt;li&gt;Nexus&lt;/li&gt;
+&lt;li&gt;Juniper SRX&lt;/li&gt;
+&lt;li&gt;Juniper SSL&lt;/li&gt;
+&lt;li&gt;Checkpoint - F5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;contact-w-infrastructure-companies&#34;&gt;Contact /w Infrastructure Companies&lt;/h2&gt;
+&lt;h2 id=&#34;contactw-infrastructure-companies&#34;&gt;Contact/w Infrastructure Companies&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Cisco&lt;/li&gt;
 &lt;li&gt;Vmware&lt;/li&gt;
 &lt;li&gt;HP&lt;/li&gt;
 &lt;li&gt;Netapp&lt;/li&gt;
 &lt;li&gt;IBM&lt;/li&gt;
-&lt;li&gt;Level-3 - Global-Switch (#1 international Datacom provider)&lt;/li&gt;
+&lt;li&gt;Level(3) - Global-Switch (#1 international Datacom provider)&lt;/li&gt;
 &lt;li&gt;Juniper&lt;/li&gt;
 &lt;li&gt;Checkpoint&lt;/li&gt;
 &lt;li&gt;BigIP/F5&lt;/li&gt;
