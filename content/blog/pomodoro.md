@@ -9,7 +9,7 @@ tags: ["html", "css"]
 categories: "blog, learn"
 ---
 
-## *Master Your Time: The Pomodoro Technique for Effective Studying and Work*
+## *Master Your Time: The Pomodoro Technique for Effective Work & Learning*
 
 
 ## **Introduction:**
