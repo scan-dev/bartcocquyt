@@ -2,9 +2,9 @@
 title: "The Feynman Technique"
 draft: false
 cover:
-  image: img/main-cover-bc.png
-  alt: 'my cover image'
-  caption: 'Cover image'
+  image: img/richard-feynman.jpg
+  alt: 'feynman technique'
+  caption: 'Richard Feynman'
 tags: ["html", "css"]
 categories: "blog, learn"
 ---

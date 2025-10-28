@@ -2,9 +2,9 @@
 title: "Pomodoro Technique"
 draft: false
 cover:
-  image: img/main-cover-bc.png
-  alt: 'my cover image'
-  caption: 'Cover image'
+  image: img/pomodoro-working.jpg
+  alt: 'pomodoro technique'
+  caption: 'pomodoro technique'
 tags: ["html", "css"]
 categories: "blog, learn"
 ---
