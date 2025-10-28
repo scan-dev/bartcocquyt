@@ -1,6 +1,5 @@
 ---
 title: "Skills"
-date: 2025-06-27T01:00:00+02:00
 draft: false
 cover:
   image: img/main-center-bc.png
@@ -10,13 +9,13 @@ tags: ["about"]
 categories: ["about","tech","skills"]
 ---
 
-# CLOUD Platforms
+# **CLOUD Platforms**
 - AWS & Services
 - Azure & Services
 - Google (GCP) & Services
 (Coursera certifications)
 
-# TOOLING
+# **TOOLING**
 
 - Docker - Podman
 - Git - Gitlab - Github
@@ -28,7 +27,7 @@ categories: ["about","tech","skills"]
 - Checkhov - Kaniko - SonarQube
 - Renovate
 
-# PROGRAMMING
+# **PROGRAMMING**
 
 - Bash scripting
 - Powershell
@@ -40,7 +39,7 @@ categories: ["about","tech","skills"]
 
 ---
 
-# INFRA & HARDWARE
+# **INFRA & HARDWARE**
 
 - VMware Infrastructure
 - Windows Server OS 2003 - 2016
@@ -61,7 +60,7 @@ categories: ["about","tech","skills"]
 
 ---
 
-## Contact/w Infrastructure Companies
+## **Contact/w Infrastructure Companies**
 
 - Cisco
 - Vmware

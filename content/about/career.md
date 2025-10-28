@@ -1,6 +1,5 @@
 ---
 title: "Career"
-date: 2025-06-27T01:00:00+02:00
 draft: false
 cover:
   image: img/main-center-bc.png

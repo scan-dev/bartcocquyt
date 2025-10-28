@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Skills on Bart Cocquyt</title><link>http://localhost:1313/categories/skills/</link><description>Recent content in Skills on Bart Cocquyt</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 01:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/skills/index.xml" rel="self" type="application/rss+xml"/><item><title>Skills</title><link>http://localhost:1313/about/skills/</link><pubDate>Fri, 27 Jun 2025 01:00:00 +0200</pubDate><guid>http://localhost:1313/about/skills/</guid><description>&lt;h1 id="cloud-platforms"&gt;CLOUD Platforms&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Skills on Bart Cocquyt</title><link>http://localhost:1313/categories/skills/</link><description>Recent content in Skills on Bart Cocquyt</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://localhost:1313/categories/skills/index.xml" rel="self" type="application/rss+xml"/><item><title>Skills</title><link>http://localhost:1313/about/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about/skills/</guid><description>&lt;h1 id="cloud-platforms"&gt;&lt;strong&gt;CLOUD Platforms&lt;/strong&gt;&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;AWS &amp;amp; Services&lt;/li&gt;
 &lt;li&gt;Azure &amp;amp; Services&lt;/li&gt;
 &lt;li&gt;Google (GCP) &amp;amp; Services
 (Coursera certifications)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="tooling"&gt;TOOLING&lt;/h1&gt;
+&lt;h1 id="tooling"&gt;&lt;strong&gt;TOOLING&lt;/strong&gt;&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Docker - Podman&lt;/li&gt;
 &lt;li&gt;Git - Gitlab - Github&lt;/li&gt;
@@ -17,7 +17,7 @@
 &lt;li&gt;Checkhov - Kaniko - SonarQube&lt;/li&gt;
 &lt;li&gt;Renovate&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id="programming"&gt;PROGRAMMING&lt;/h1&gt;
+&lt;h1 id="programming"&gt;&lt;strong&gt;PROGRAMMING&lt;/strong&gt;&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Bash scripting&lt;/li&gt;
 &lt;li&gt;Powershell&lt;/li&gt;
@@ -28,7 +28,7 @@
 &lt;li&gt;ASP&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h1 id="infra--hardware"&gt;INFRA &amp;amp; HARDWARE&lt;/h1&gt;
+&lt;h1 id="infra--hardware"&gt;&lt;strong&gt;INFRA &amp;amp; HARDWARE&lt;/strong&gt;&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;VMware Infrastructure&lt;/li&gt;
 &lt;li&gt;Windows Server OS 2003 - 2016&lt;/li&gt;
@@ -51,7 +51,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id="contactw-infrastructure-companies"&gt;Contact/w Infrastructure Companies&lt;/h2&gt;
+&lt;h2 id="contactw-infrastructure-companies"&gt;&lt;strong&gt;Contact/w Infrastructure Companies&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Cisco&lt;/li&gt;
 &lt;li&gt;Vmware&lt;/li&gt;

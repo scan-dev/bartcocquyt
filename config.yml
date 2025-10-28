@@ -21,7 +21,7 @@ params:
   ShowShareButtons: true
   ShareButtons: ["linkedin","facebook"] # To customize which share buttons to be enabled on page
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -65,7 +65,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
-    subtitle: "A born **IT Professional and Tech Enthusiast** always eager to get my hands dirty on all new developments in the **IT and Technology World**"
+    subtitle: "A born **IT Professional and Tech Enthusiast** always eager to get hands-on with all new developments in the **IT and Technology World**"
     imageUrl: "img/bartcocquyt.png" # optional
     imageTitle: "IT Professional"
     imageWidth: 480 # custom size
@@ -73,17 +73,17 @@ params:
     buttons:
       - name: About Me
         url: "/about/bartcocquyt"
-      - name: Posts
-        url: /posts
       - name: Projects
         url: /projects
+      - name: Blogs
+        url: /blogs
     socialIcons:
       - name: "facebook"
         url: "https://facebook.com/Bart-Cocquyt"
       - name: "linkedin"
         url: "https://linkedin.com/in/bart-cocquyt"
-      - name: "github"
-        url: "https://github.com/scan-dev"    
+  #    - name: "github"
+  #      url: "https://github.com/scan-dev"    
    
   cover:
     linkFullImages: true
@@ -96,11 +96,11 @@ menu:
     - identifier: about
       name: About
       url: /about
-      weight: 40
+      weight: 10
     - identifier: blog
       name: Blogs
       url: /blog
-      weight: 10
+      weight: 40
     - identifier: projects
       name: Projects
       url: /projects

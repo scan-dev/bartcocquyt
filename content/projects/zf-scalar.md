@@ -1,6 +1,5 @@
 ---
 title: 'Projects'
-date: 2025-06-27T14:56:39+02:00
 draft: false
 cover:
   image: img/main-cover-bc.png
