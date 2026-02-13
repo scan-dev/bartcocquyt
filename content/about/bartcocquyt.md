@@ -13,7 +13,7 @@ A born IT professional and Tech enthusiast always eager to get "hands-on" with a
 
 Always looking for new challenges and looking for providing added-values in my job and personal life.
 
-Advocate building team-members and see them shine and evolve and to become a high-perfomance team.
+Advocate building team-members and see them shine and evolve and to become a high-performance team.
 
 --- 
 

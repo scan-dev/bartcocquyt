@@ -25,7 +25,9 @@ It is the stepping‑stone toward mastering tomorrow’s computing paradigms.
 
 ## The Operating System Journey - Insight
 
-*For more than three years, my home computer has run on **Arch Linux** with a modern, eye‑pleasing desktop called **Hyprland**. I chose Linux over Windows long before most people even heard of it, and I’ve never once thought about switching back.*
+For more than three years, my home computer has run on **Arch Linux** with a modern, eye‑pleasing desktop called **Hyprland**. I chose Linux over Windows long before most people even heard of it, and I’ve never once thought about switching back.
+
+As Microsoft is still a major part of Business environments I still run multiple Windows systems in my virtualized homelab
 
 ### A Personal Commitment 💪
 
@@ -113,8 +115,8 @@ Docker Swarm’s simplicity and built‑in HA make it ideal for a small cluster 
 | **Ollama** | AI inference (multiple models) | Local LLM hosting |
 | **Open‑WebUI** | Web‑front for Ollama | FastAPI + Vue |
 | **SearxNG** | Decentralized search engine | Python/Django |
-| **GitLab CI/CD** | Centralize code base & Automation pipelines | GitLab Runner (Docker) |
-| **Authentik** | Identity & access management | Django + OAuth |
+| **GitLab CI/CD** | My Personal and Centralized code-base & Automation | GitLab Runner (Docker) |
+| **Authentik** | Centralized Identity & access management | Django + OAuth |
 | **Prometheus** | Metrics scraping | Node‑exporter + custom exporters |
 | **Kasm** | Sandbox containers | Chromium + VNC |
 
