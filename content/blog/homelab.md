@@ -52,7 +52,7 @@ Hyprland is my Wayland‑based desktop environment. It’s built to be fast, sim
 - **Speed and Efficiency** – My computer runs faster when I use the open‑source drivers that Linux offers, especially for my graphic card.  
 - **Control and Privacy** – I can keep everything on my machine, from running local AI models to rendering the desktop, without sending data to external servers.  
 - **Community Support** – The Arch community is huge and helpful. If I run into a problem, I can find solutions on the Arch Wiki or ask on forums, and the fixes are often ready in days.  
-- **No Microsoft As Personal driver** – I wanted a feel of other systems besides Microsoft Windows as my personal system and seen MS-Windows's profesional engagement to be professional end-user eco-system is goin down hill the last years with too many bugs/querks and failures. I’ve learned to use my machine in a way that feels natural and powerful, and I’m proud of the freedom that Linux gives me.
+- **No Microsoft As Personal driver** – I wanted a feel of other systems besides Microsoft Windows as my personal system and seen MS-Windows's profesional engagement to be a professional end-user eco-system is going down hill the last years with too many bugs/querks and failures. I’ve learned to use my machine in a way that feels natural and powerful, and I’m proud of the freedom that Linux gives me.
 
 > *Read more:* Arch Wiki – *Getting Started* (2024) – <https://wiki.archlinux.org/title/Installation_guide>  
 
