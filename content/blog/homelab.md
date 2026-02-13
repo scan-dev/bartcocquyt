@@ -188,12 +188,13 @@ If you’re considering building your own homelab, start small, iterate fast, an
 2. **Docker Swarm Documentation** – <https://docs.docker.com/engine/swarm/>  
 3. **Prometheus Official Site** – <https://prometheus.io/docs/>  
 4. **Node‑RED Official Docs** – <https://nodered.org/docs/>  
+5. **GitLAB Community Edition** – <https://docs.gitlab.com/user/get_started/>  
 5. **Ollama GitHub** – <https://github.com/ollama/ollama>  
 6. **Open‑WebUI GitHub** – <https://github.com/open-webui/open-webui>  
 7. **SearxNG** – <https://github.com/searxng/searxng>  
 8. **Authentik** – <https://github.com/goauthentik/authentik>  
 9. **Kasm** – <https://github.com/kasmtech/kasm>  
-10. **IEEE IoT Edge AI Survey** – *IEEE Internet of Things Journal*, 2023.  
+10. **IEEE IoT Edge AI Survey** – [IEEE Internet of Things Journal](https://ieee-iotj.org/)
 
 > *All configurations are version‑controlled in my GitLab setup*  
 
